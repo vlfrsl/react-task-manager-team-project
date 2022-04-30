@@ -1,0 +1,14 @@
+
+.modal.fade {
+    opacity: 0;
+    transition: 0.5s;
+    pointer-events: none;
+    display: block;
+    background-color: rgba(118,118,118,0.7);
+}
+
+.modal.fade.show {
+    transform: scale(1);
+    opacity: 1;
+    pointer-events: all;
+}

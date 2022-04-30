@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1646568483230" clover="3.2.0">
+  <project timestamp="1646568483230" name="All files">
+    <metrics statements="119" coveredstatements="78" conditionals="26" coveredconditionals="17" methods="50" coveredmethods="26" elements="195" coveredelements="121" complexity="0" loc="119" ncloc="119" packages="6" files="24" classes="24"/>
+    <package name="components">
+      <metrics statements="57" coveredstatements="38" conditionals="18" coveredconditionals="10" methods="21" coveredmethods="9"/>
+      <file name="login.js" path="C:\Projects\pm-prj-2\src\components\login.js">
+        <metrics statements="14" coveredstatements="13" conditionals="2" coveredconditionals="2" methods="5" coveredmethods="4"/>
+        <line num="8" count="5" type="stmt"/>
+        <line num="13" count="5" type="stmt"/>
+        <line num="14" count="5" type="stmt"/>
+        <line num="15" count="5" type="stmt"/>
+        <line num="17" count="5" type="stmt"/>
+        <line num="18" count="2" type="stmt"/>
+        <line num="20" count="2" type="stmt"/>
+        <line num="21" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="22" count="1" type="stmt"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="25" count="1" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="32" count="5" type="stmt"/>
+        <line num="68" count="1" type="stmt"/>
+      </file>
+      <file name="modal.js" path="C:\Projects\pm-prj-2\src\components\modal.js">
+        <metrics statements="25" coveredstatements="8" conditionals="12" coveredconditionals="4" methods="11" coveredmethods="1"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="5" type="stmt"/>
+        <line num="11" count="5" type="stmt"/>
+        <line num="13" count="5" type="stmt"/>
+        <line num="18" count="5" type="stmt"/>
+        <line num="20" count="5" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="28" count="5" type="stmt"/>
+        <line num="29" count="0" type="stmt"/>
+        <line num="32" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="33" count="0" type="stmt"/>
+        <line num="39" count="0" type="stmt"/>
+        <line num="45" count="0" type="stmt"/>
+        <line num="46" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="47" count="0" type="stmt"/>
+        <line num="49" count="0" type="stmt"/>
+        <line num="51" count="0" type="stmt"/>
+        <line num="54" count="0" type="stmt"/>
+        <line num="57" count="5" type="stmt"/>
+        <line num="63" count="0" type="stmt"/>
+        <line num="66" count="0" type="stmt"/>
+        <line num="71" count="0" type="stmt"/>
+        <line num="108" count="0" type="stmt"/>
+        <line num="118" count="0" type="stmt"/>
+        <line num="123" count="0" type="stmt"/>
+      </file>
+      <file name="register.js" path="C:\Projects\pm-prj-2\src\components\register.js">
+        <metrics statements="18" coveredstatements="17" conditionals="4" coveredconditionals="4" methods="5" coveredmethods="4"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="8" type="stmt"/>
+        <line num="15" count="8" type="stmt"/>
+        <line num="16" count="8" type="stmt"/>
+        <line num="17" count="8" type="stmt"/>
+        <line num="19" count="8" type="stmt"/>
+        <line num="20" count="3" type="stmt"/>
+        <line num="22" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+        <line num="27" count="2" type="stmt"/>
+        <line num="32" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="33" count="1" type="stmt"/>
+        <line num="34" count="1" type="stmt"/>
+        <line num="36" count="1" type="stmt"/>
+        <line num="39" count="0" type="stmt"/>
+        <line num="43" count="8" type="stmt"/>
+        <line num="97" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.TasksDataContext">
+      <metrics statements="20" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="1"/>
+      <file name="TasksDataContext.js" path="C:\Projects\pm-prj-2\src\components\TasksDataContext\TasksDataContext.js">
+        <metrics statements="20" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="1"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="23" count="0" type="stmt"/>
+        <line num="26" count="0" type="stmt"/>
+        <line num="33" count="1" type="stmt"/>
+        <line num="34" count="0" type="stmt"/>
+        <line num="35" count="0" type="stmt"/>
+        <line num="37" count="0" type="stmt"/>
+        <line num="40" count="1" type="stmt"/>
+        <line num="41" count="5" type="stmt"/>
+        <line num="43" count="5" type="stmt"/>
+        <line num="44" count="0" type="stmt"/>
+        <line num="45" count="0" type="stmt"/>
+        <line num="50" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.TypeColumnContext">
+      <metrics statements="7" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+      <file name="TypeColumnContext.js" path="C:\Projects\pm-prj-2\src\components\TypeColumnContext\TypeColumnContext.js">
+        <metrics statements="7" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="hooks">
+      <metrics statements="12" coveredstatements="11" conditionals="2" coveredconditionals="2" methods="6" coveredmethods="5"/>
+      <file name="useFormFields.js" path="C:\Projects\pm-prj-2\src\hooks\useFormFields.js">
+        <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="3" count="3" type="stmt"/>
+        <line num="4" count="18" type="stmt"/>
+        <line num="6" count="18" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="14" count="18" type="stmt"/>
+      </file>
+      <file name="useLocalStorage.js" path="C:\Projects\pm-prj-2\src\hooks\useLocalStorage.js">
+        <metrics statements="6" coveredstatements="5" conditionals="2" coveredconditionals="2" methods="3" coveredmethods="2"/>
+        <line num="3" count="5" type="stmt"/>
+        <line num="4" count="13" type="stmt"/>
+        <line num="5" count="7" type="cond" truecount="2" falsecount="0"/>
+        <line num="7" count="13" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="11" count="13" type="stmt"/>
+      </file>
+    </package>
+    <package name="services">
+      <metrics statements="23" coveredstatements="20" conditionals="6" coveredconditionals="5" methods="13" coveredmethods="11"/>
+      <file name="BaseService.js" path="C:\Projects\pm-prj-2\src\services\BaseService.js">
+        <metrics statements="14" coveredstatements="13" conditionals="6" coveredconditionals="5" methods="5" coveredmethods="5"/>
+        <line num="4" count="6" type="stmt"/>
+        <line num="7" count="6" type="stmt"/>
+        <line num="8" count="6" type="stmt"/>
+        <line num="12" count="6" type="cond" truecount="3" falsecount="1"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="16" count="6" type="stmt"/>
+        <line num="20" count="3" type="stmt"/>
+        <line num="25" count="3" type="stmt"/>
+        <line num="29" count="1" type="stmt"/>
+        <line num="36" count="1" type="stmt"/>
+        <line num="40" count="1" type="stmt"/>
+        <line num="46" count="1" type="stmt"/>
+        <line num="50" count="1" type="stmt"/>
+        <line num="56" count="1" type="stmt"/>
+      </file>
+      <file name="StatusService.js" path="C:\Projects\pm-prj-2\src\services\StatusService.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+      </file>
+      <file name="TaskService.js" path="C:\Projects\pm-prj-2\src\services\TaskService.js">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="5"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="21" count="1" type="stmt"/>
+      </file>
+      <file name="UserService.js" path="C:\Projects\pm-prj-2\src\services\UserService.js">
+        <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="tests.mock">
+      <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="createCard.js" path="C:\Projects\pm-prj-2\src\tests\mock\createCard.js">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="createCard_fail_400.js" path="C:\Projects\pm-prj-2\src\tests\mock\createCard_fail_400.js">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="createTaskFromService.js" path="C:\Projects\pm-prj-2\src\tests\mock\createTaskFromService.js">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="deleteTaskFromService.js" path="C:\Projects\pm-prj-2\src\tests\mock\deleteTaskFromService.js">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="getCardFromService.js" path="C:\Projects\pm-prj-2\src\tests\mock\getCardFromService.js">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="getCardsFromService.js" path="C:\Projects\pm-prj-2\src\tests\mock\getCardsFromService.js">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="login.js" path="C:\Projects\pm-prj-2\src\tests\mock\login.js">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="login_fail_400.js" path="C:\Projects\pm-prj-2\src\tests\mock\login_fail_400.js">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="register.js" path="C:\Projects\pm-prj-2\src\tests\mock\register.js">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="register_fail_400.js" path="C:\Projects\pm-prj-2\src\tests\mock\register_fail_400.js">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="statuses.js" path="C:\Projects\pm-prj-2\src\tests\mock\statuses.js">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="updateCard.js" path="C:\Projects\pm-prj-2\src\tests\mock\updateCard.js">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="updateCardService.js" path="C:\Projects\pm-prj-2\src\tests\mock\updateCardService.js">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+  </project>
+</coverage>

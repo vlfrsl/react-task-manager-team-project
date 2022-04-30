@@ -1,0 +1,98 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test Register component should render register component 1`] = `
+<article
+  className="grid"
+>
+  <form
+    onSubmit={[Function]}
+  >
+    <h2>
+      Register
+    </h2>
+    <div
+      className="mb-3"
+    >
+      <label
+        className="form-label"
+        htmlFor="nameInput"
+      >
+         Name
+      </label>
+      <input
+        className="form-control"
+        id="nameInput"
+        name="login"
+        onChange={[Function]}
+        required={true}
+        value=""
+      />
+    </div>
+    <div
+      className="mb-3"
+    >
+      <label
+        className="form-label"
+        htmlFor="emailInput"
+      >
+         Email
+      </label>
+      <input
+        className="form-control"
+        id="emailInput"
+        name="email"
+        onChange={[Function]}
+        required={true}
+        type="email"
+        value=""
+      />
+    </div>
+    <div
+      className="mb-3"
+    >
+      <label
+        className="form-label"
+        htmlFor="passwordInput"
+      >
+        Password
+      </label>
+      <input
+        className="form-control"
+        id="passwordInput"
+        name="password"
+        onChange={[Function]}
+        required={true}
+        type="password"
+        value=""
+      />
+    </div>
+    <div
+      className="mb-3"
+    >
+      <label
+        className="form-label"
+        htmlFor="passwordConfirmInput"
+      >
+         Password Confirm
+      </label>
+      <input
+        className="form-control"
+        id="passwordConfirmInput"
+        name="retype"
+        onChange={[Function]}
+        required={true}
+        type="password"
+        value=""
+      />
+    </div>
+    <button
+      className="btn btn-primary"
+    >
+      Register
+    </button>
+  </form>
+  <ul
+    className="errors-list"
+  />
+</article>
+`;

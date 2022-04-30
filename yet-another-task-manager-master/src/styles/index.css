@@ -1,0 +1,54 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.mt-2{
+    list-style-type: none;
+    padding-left: 0;
+}
+.wrapper-nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.btn-dark:hover{
+    color:black;
+    background-color: white;
+}
+.updateIcon{
+    width: 34px;
+}
+.btn-warning {
+    padding: 1px;
+}
+.wrapper-btn{
+    display: flex;
+    justify-content: end;
+    column-gap: 5px;
+}
+.card-body{
+    background-color: white;
+
+}
+.card{
+    border:none;
+}
+.for-border{
+    border-right: 1px solid #0000004a;
+}
+.for-border:first-child{
+    border-left: 1px solid #0000004a;
+}
+.card-for-style{
+    -webkit-box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.2);
+    -moz-box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.2);
+    box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.2);
+
+    margin-bottom: 10px;
+}
